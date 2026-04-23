@@ -11,7 +11,7 @@ import jakarta.mail.internet.MimeMessage;
 public class emailservices {
     
     private final static String sendermail = "rohan.yewale252005@gmail.com";
-    private final static String sendpass = "wlvs bpid sfkb xpan";
+    private final static String sendpass = "kthj qxfa xlia zaid";
 
     public static String sendconfirmationmail(customer customer, vehicle vehicle, double amount) {
 
